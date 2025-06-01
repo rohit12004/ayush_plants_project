@@ -1,0 +1,370 @@
+{
+    "sections": [
+        {
+            "id": "ayurveda",
+            "title": "Ayurveda",
+            "articles": [
+              {
+                "plantImg": "https://www.greendna.in/cdn/shop/products/brahmilea_626x.jpg?v=1592237079",
+                "plantName": "Brahmi (Bacopa monnieri)",
+                "commonNames": "Bacopa, Water Hyssop",
+                "description": "A herb used in Ayurveda for enhancing cognitive function and mental clarity.",
+                "medicinalUses": [
+                  {
+                    "use": "Cognitive Function",
+                    "benefit": "Improves memory and concentration."
+                  },
+                  {
+                    "use": "Stress Relief",
+                    "benefit": "Reduces anxiety and promotes relaxation."
+                  },
+                  {
+                    "use": "Neuroprotection",
+                    "benefit": "Protects brain cells from damage."
+                  }
+                ],
+                "preparationMethods": "Powder, capsules, tincture.",
+                "precautions": "Generally safe but may cause digestive upset in some cases."
+              },
+              {
+                "plantImg": "https://hebsurherbals.com/wp-content/uploads/2020/02/turmeric-powder.jpg",
+                "plantName": "Turmeric (Curcuma longa)",
+                "commonNames": "Haldi, Curcumin",
+                "description": "A yellow spice with anti-inflammatory and antioxidant properties, widely used in Ayurveda.",
+                "medicinalUses": [
+                  {
+                    "use": "Anti-Inflammatory",
+                    "benefit": "Reduces inflammation and pain."
+                  },
+                  {
+                    "use": "Antioxidant",
+                    "benefit": "Protects against oxidative damage."
+                  },
+                  {
+                    "use": "Digestive Health",
+                    "benefit": "Aids in digestion and alleviates bloating."
+                  }
+                ],
+                "preparationMethods": "Powder, capsules, fresh root.",
+                "precautions": "High doses may cause gastrointestinal issues."
+              },
+              {
+                "plantImg": "https://m.media-amazon.com/images/I/61vfn4o1sCL._AC_UF1000,1000_QL80_.jpg",
+                "plantName": "Ashwagandha (Withania somnifera)",
+                "commonNames": "Indian Ginseng, Winter Cherry",
+                "description": "An adaptogen used in Ayurveda to combat stress and improve vitality.",
+                "medicinalUses": [
+                  {
+                    "use": "Stress Relief",
+                    "benefit": "Reduces stress and anxiety."
+                  },
+                  {
+                    "use": "Energy Booster",
+                    "benefit": "Enhances stamina and strength."
+                  },
+                  {
+                    "use": "Immune Support",
+                    "benefit": "Supports the immune system."
+                  }
+                ],
+                "preparationMethods": "Powder, capsules, tincture.",
+                "precautions": "May cause drowsiness; consult a healthcare provider if taking other medications."
+              }
+            ]
+          },
+          {
+            "id": "yoga",
+            "title": "Yoga",
+            "articles": [
+              {
+                "plantImg": "https://www.ayurbethaniya.org/imageuploads/pages/2018/08/02/types-of-yoga-asanas.jpg",
+                "plantName": "Asanas (Postures)",
+                "commonNames": "Tree Pose, Downward Dog, Warrior Pose",
+                "description": "Physical postures designed to enhance strength, flexibility, and balance.",
+                "medicinalUses": [
+                  {
+                    "use": "Flexibility",
+                    "benefit": "Increases overall flexibility."
+                  },
+                  {
+                    "use": "Strength",
+                    "benefit": "Builds muscular strength."
+                  },
+                  {
+                    "use": "Balance",
+                    "benefit": "Improves balance and coordination."
+                  }
+                ],
+                "preparationMethods": "Practice during yoga classes or home sessions.",
+                "precautions": "Perform under guidance if new to yoga; avoid if experiencing pain."
+              },
+              {
+                "plantImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwDhhlc0MJeG1Rq5PUb2WiDu7v1NmSVyZNQ&s",
+                "plantName": "Pranayama (Breathing Exercises)",
+                "commonNames": "Ujjayi, Kapalabhati, Anulom Vilom",
+                "description": "Techniques that involve controlled breathing to increase lung capacity and regulate energy flow.",
+                "medicinalUses": [
+                  {
+                    "use": "Respiratory Health",
+                    "benefit": "Enhances lung function."
+                  },
+                  {
+                    "use": "Calmness",
+                    "benefit": "Reduces stress and induces calm."
+                  },
+                  {
+                    "use": "Energy Regulation",
+                    "benefit": "Balances energy levels in the body."
+                  }
+                ],
+                "preparationMethods": "Practice in a quiet space, often combined with meditation.",
+                "precautions": "Consult a healthcare provider if you have respiratory issues."
+              },
+              {
+                "plantImg": "https://www.hindustantimes.com/ht-img/img/2024/04/11/550x309/gc308d801ffb4b08e939_1712857798644_1712857798930.jpg",
+                "plantName": "Meditation",
+                "commonNames": "Mindfulness, Guided, Mantra",
+                "description": "Practice of focusing the mind to achieve a state of mental clarity and emotional calm.",
+                "medicinalUses": [
+                  {
+                    "use": "Mental Clarity",
+                    "benefit": "Improves focus and mental clarity."
+                  },
+                  {
+                    "use": "Emotional Balance",
+                    "benefit": "Helps manage emotions and reduce anxiety."
+                  },
+                  {
+                    "use": "Stress Reduction",
+                    "benefit": "Promotes relaxation and reduces stress."
+                  }
+                ],
+                "preparationMethods": "Practice in a quiet space, ideally with minimal distractions.",
+                "precautions": "Avoid if experiencing severe mental health issues; seek professional guidance if needed."
+              }
+            ]
+          },
+          {
+            "id": "unani",
+            "title": "Unani",
+            "articles": [
+              {
+                "plantImg": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/266128_2200-732x549.jpg",
+                "plantName": "Mint (Mentha)",
+                "commonNames": "Pudina",
+                "description": "A refreshing herb used in Unani medicine for digestive and respiratory health.",
+                "medicinalUses": [
+                  {
+                    "use": "Digestive Health",
+                    "benefit": "Alleviates indigestion and nausea."
+                  },
+                  {
+                    "use": "Respiratory Health",
+                    "benefit": "Eases symptoms of cough and congestion."
+                  },
+                  {
+                    "use": "Cooling Effect",
+                    "benefit": "Provides a cooling sensation and relieves headaches."
+                  }
+                ],
+                "preparationMethods": "Fresh leaves, tea, extracts.",
+                "precautions": "Generally safe; excessive use may cause digestive issues."
+              },
+              {
+                "plantImg": "https://organicbazar.net/cdn/shop/products/Untitled-design-2022-06-02T160309.044.jpg?v=1694167783",
+                "plantName": "Fenugreek (Trigonella foenum-graecum)",
+                "commonNames": "Methi",
+                "description": "A herb used in Unani medicine for its benefits on digestion and metabolism.",
+                "medicinalUses": [
+                  {
+                    "use": "Digestive Health",
+                    "benefit": "Improves digestion and reduces bloating."
+                  },
+                  {
+                    "use": "Metabolic Health",
+                    "benefit": "Helps manage blood sugar levels."
+                  },
+                  {
+                    "use": "Appetite Stimulant",
+                    "benefit": "Stimulates appetite and supports healthy weight gain."
+                  }
+                ],
+                "preparationMethods": "Seeds, powder, supplements.",
+                "precautions": "May cause gastrointestinal discomfort in large amounts."
+              },
+              {
+                "plantImg": "https://cdn.britannica.com/10/198810-050-A2364A2D/sage-plant.jpg",
+                "plantName": "Sage (Salvia officinalis)",
+                "commonNames": "Common Sage",
+                "description": "A herb used in Unani medicine for its antimicrobial and digestive benefits.",
+                "medicinalUses": [
+                  {
+                    "use": "Antimicrobial",
+                    "benefit": "Helps in combating infections."
+                  },
+                  {
+                    "use": "Digestive Health",
+                    "benefit": "Aids in digestion and reduces bloating."
+                  },
+                  {
+                    "use": "Memory Support",
+                    "benefit": "May improve cognitive function and memory."
+                  }
+                ],
+                "preparationMethods": "Tea, fresh leaves, tinctures.",
+                "precautions": "Avoid in excessive amounts; may interact with certain medications."
+              }
+            ]
+          },
+          {
+            "id": "siddha",
+            "title": "Siddha",
+            "articles": [
+              {
+                "plantImg": "https://www.toothmountainnursery.com/wp-content/uploads/2020/03/Neem.jpg",
+                "plantName": "Neem (Azadirachta indica)",
+                "commonNames": "Indian Lilac",
+                "description": "A versatile plant used in Siddha medicine for its antimicrobial and detoxifying properties.",
+                "medicinalUses": [
+                  {
+                    "use": "Antimicrobial",
+                    "benefit": "Fights infections and purifies the blood."
+                  },
+                  {
+                    "use": "Skin Health",
+                    "benefit": "Treats skin conditions like acne and eczema."
+                  },
+                  {
+                    "use": "Detoxification",
+                    "benefit": "Supports liver function and detoxifies the body."
+                  }
+                ],
+                "preparationMethods": "Leaf extracts, powders, topical applications.",
+                "precautions": "May cause allergic reactions in some individuals; consult a healthcare provider if pregnant."
+              },
+              {
+                "plantImg": "https://m.media-amazon.com/images/I/61vfn4o1sCL._AC_UF1000,1000_QL80_.jpg",
+                "plantName": "Ashwagandha (Withania somnifera)",
+                "commonNames": "Indian Ginseng, Winter Cherry",
+                "description": "An adaptogenic herb used in Siddha medicine for stress relief and vitality.",
+                "medicinalUses": [
+                  {
+                    "use": "Stress Relief",
+                    "benefit": "Reduces anxiety and enhances mood."
+                  },
+                  {
+                    "use": "Energy Booster",
+                    "benefit": "Increases stamina and strength."
+                  },
+                  {
+                    "use": "Immune Support",
+                    "benefit": "Strengthens the immune system."
+                  }
+                ],
+                "preparationMethods": "Powder, capsules, tincture.",
+                "precautions": "Consult a healthcare provider if pregnant or breastfeeding."
+              },
+              {
+                "plantImg": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/triphala-ayurvedic-fruits-1296x728.jpg?w=1155&h=1528",
+                "plantName": "Triphala (Terminalia chebula, Terminalia bellerica, Emblica officinalis)",
+                "commonNames": "Triphala",
+                "description": "A traditional Siddha formulation composed of three fruits, used for general health and digestion.",
+                "medicinalUses": [
+                  {
+                    "use": "Digestive Health",
+                    "benefit": "Supports digestion and relieves constipation."
+                  },
+                  {
+                    "use": "Detoxification",
+                    "benefit": "Aids in detoxifying the body."
+                  },
+                  {
+                    "use": "Anti-Aging",
+                    "benefit": "Contains antioxidants that combat aging."
+                  }
+                ],
+                "preparationMethods": "Powder, capsules, decoction.",
+                "precautions": "May cause mild digestive upset in some individuals."
+              }
+            ]
+          },
+          {
+            "id": "homeopathy",
+            "title": "Homeopathy",
+            "articles": [
+              {
+                "plantImg": "https://m.media-amazon.com/images/I/71BjlJnLHXL.jpg",
+                "plantName": "Echinacea (Echinacea purpurea)",
+                "commonNames": "Coneflower",
+                "description": "A popular herb in homeopathy known for its immune-boosting properties.",
+                "medicinalUses": [
+                  {
+                    "use": "Immune Support",
+                    "benefit": "Enhances the body's defense mechanisms."
+                  },
+                  {
+                    "use": "Cold Relief",
+                    "benefit": "Reduces symptoms of cold and flu."
+                  },
+                  {
+                    "use": "Wound Healing",
+                    "benefit": "Promotes healing of wounds and infections."
+                  }
+                ],
+                "preparationMethods": "Extracts, tinctures, capsules.",
+                "precautions": "May cause allergic reactions in some individuals."
+              },
+              {
+                "plantImg": "https://seed2plant.in/cdn/shop/products/CALENDULAPacificBeauty.jpg?v=1637411562&width=1500",
+                "plantName": "Calendula (Calendula officinalis)",
+                "commonNames": "Marigold",
+                "description": "Known for its anti-inflammatory and healing properties, often used in homeopathic treatments.",
+                "medicinalUses": [
+                  {
+                    "use": "Skin Health",
+                    "benefit": "Soothes skin irritations and promotes healing."
+                  },
+                  {
+                    "use": "Anti-Inflammatory",
+                    "benefit": "Reduces inflammation and redness."
+                  },
+                  {
+                    "use": "Digestive Health",
+                    "benefit": "Aids in digestive issues and ulcers."
+                  }
+                ],
+                "preparationMethods": "Ointments, tinctures, teas.",
+                "precautions": "Generally safe; avoid if allergic to marigolds."
+              },
+              {
+                "plantImg": "https://cdn.britannica.com/28/140628-050-169547E0/Arnica.jpg",
+                "plantName": "Arnica (Arnica montana)",
+                "commonNames": "Leopard's Bane",
+                "description": "A herb used in homeopathy for its pain-relieving and anti-inflammatory properties.",
+                "medicinalUses": [
+                  {
+                    "use": "Pain Relief",
+                    "benefit": "Reduces pain and bruising."
+                  },
+                  {
+                    "use": "Anti-Inflammatory",
+                    "benefit": "Eases inflammation and swelling."
+                  },
+                  {
+                    "use": "Muscle Recovery",
+                    "benefit": "Aids in muscle recovery and alleviates soreness."
+                  }
+                ],
+                "preparationMethods": "Topical ointments, tinctures.",
+                "precautions": "Do not apply to broken skin; consult a healthcare provider if pregnant."
+              }
+            ]
+          }
+          
+          
+          
+          
+          
+    ]
+  }
+  

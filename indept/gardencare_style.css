@@ -1,0 +1,80 @@
+/* General Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f4f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for the content */
+.container {
+    max-width: 1200px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Page Header */
+h1 {
+    text-align: center;
+    color: #2b9348;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+/* Section Titles */
+h2 {
+    color: #1b4332;
+    font-size: 28px;
+    margin-top: 20px;
+    border-bottom: 2px solid #52b788;
+    padding-bottom: 10px;
+}
+
+
+/* Paragraph Styling */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 15px 0;
+    color: #495057;
+}
+
+/* Strong Text (used for labels) */
+strong {
+    color: #2d6a4f;
+    font-weight: bold;
+}
+
+
+/* Cards for each section */
+#introduction, #location, #soil, #watering, #pests, #seasonal-care, #harvesting, #resources {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    p, li {
+        font-size: 14px;
+    }
+}
