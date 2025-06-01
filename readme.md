@@ -1,3 +1,5 @@
+## Learning Project designed to test coding skills .
+
 # Virtual Herbal Garden
 
 The **Virtual Herbal Garden** is a web-based platform designed to promote the healing power of medicinal plants through the AYUSH systems (Ayurveda, Yoga, Unani, Siddha, and Homeopathy). It provides educational content, plant details, and gardening tips to help users explore and cultivate traditional medicinal plants.
@@ -62,4 +64,3 @@ plants/
     - Open `plants/home/index.html` or `plants/main/main.html` in your browser.
 
 
-## Learning Project designed to test coding skills .
